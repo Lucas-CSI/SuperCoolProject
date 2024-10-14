@@ -1,5 +1,6 @@
 # SuperCoolProject
 
-Guys im having second thoughts, this might not be as cool as I thought.
+Guys im having second thoughts, this might not be as cool as I thought. 
+Lab 8 - Ernesto
 
-Mark Fuller
+Lucas Bergman
